@@ -13,7 +13,7 @@ A frontend application for a home sharing platform where users can browse listin
 
 **(Add your Vercel deployment link here once deployed!)**
 
-🔗 **Live Site:** [https://your-deployment-link.vercel.app](https://your-deployment-link.vercel.app)
+🔗 **Live Site:** (https://home-sharing-frontend.vercel.app/)
 
 ---
 
@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/home-sharing-frontend.git](https://github.com/YOUR_USERNAME/home-sharing-frontend.git)
+    git clone https://github.com/INCREDIBLE18/home-sharing-frontend
     ```
     *(Replace with your actual GitHub repository URL)*
 
