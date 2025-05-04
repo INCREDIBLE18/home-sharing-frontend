@@ -10,7 +10,6 @@ A frontend application for a home sharing platform where users can browse listin
 
 ## Live Demo
 
-**(Add your Vercel deployment link here once deployed!)**
 
 🔗 **Live Site:** (https://home-sharing-frontend.vercel.app/)
 
@@ -18,7 +17,6 @@ A frontend application for a home sharing platform where users can browse listin
 
 ## Screenshots
 
-**(Instructions: Take screenshots of key pages like the Home page, Listings page, Listing Detail page, Login page. Create a folder named `screenshots` in your project root, save the images there (e.g., `screenshots/homepage.png`), and embed them below using Markdown.)**
 
 *Example:*
 
@@ -68,7 +66,6 @@ To run this project locally, follow these steps:
     ```bash
     git clone https://github.com/INCREDIBLE18/home-sharing-frontend
     ```
-    *(Replace with your actual GitHub repository URL)*
 
 2.  **Navigate into the project directory:**
     ```bash
@@ -84,7 +81,6 @@ To run this project locally, follow these steps:
 
 ---
 
-## Running Locally
 
 Once dependencies are installed, start the development server:
 
