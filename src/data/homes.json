@@ -1,0 +1,53 @@
+
+[
+    {
+      "id": "1",
+      "title": "Cozy Downtown Apartment",
+      "location": "Metropolis City Center",
+      "price_per_night": 120,
+      "image_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "A beautiful and cozy apartment right in the heart of the city. Close to all attractions and public transport.",
+      "available_dates": "June 10, 2025 - July 15, 2025",
+       "owner": { "id": "u1", "name": "Alice" }
+    },
+    {
+      "id": "2",
+      "title": "Beachfront Villa with Pool",
+      "location": "Sunset Beach",
+      "price_per_night": 350,
+      "image_url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Stunning villa with direct beach access and a private pool. Perfect for a relaxing getaway.",
+      "available_dates": "July 1, 2025 - August 31, 2025",
+       "owner": { "id": "u2", "name": "Bob" }
+    },
+    {
+      "id": "3",
+      "title": "Rustic Mountain Cabin",
+      "location": "Pinecrest Mountains",
+      "price_per_night": 95,
+      "image_url": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Escape to this peaceful cabin in the woods. Great for hiking and nature lovers.",
+      "available_dates": "May 20, 2025 - September 30, 2025",
+       "owner": { "id": "u1", "name": "Alice" }
+    },
+    {
+      "id": "4",
+      "title": "Modern Urban Loft",
+      "location": "Art District, Metropolis",
+      "price_per_night": 180,
+      "image_url": "https://images.unsplash.com/photo-1613553483144-486515569526?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Chic loft with industrial design elements, perfect for exploring the vibrant city life.",
+      "available_dates": "All year round",
+      "owner": { "id": "u2", "name": "Bob" }
+    },
+     {
+      "id": "5",
+      "title": "Secluded Forest Retreat",
+      "location": "Green Valley Forests",
+      "price_per_night": 110,
+      "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "A quiet house surrounded by nature. Ideal for writers, artists, or anyone seeking solitude.",
+      "available_dates": "August 1, 2025 - November 30, 2025",
+      "owner": { "id": "u3", "name": "Charlie" }
+    }
+  ]
