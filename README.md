@@ -1,38 +1,28 @@
 # HomeShare Frontend - React Assessment Project
 
-![HomeShare Logo Placeholder](https://via.placeholder.com/150/4A90E2/FFFFFF?text=HomeShare)
-
 A frontend application for a home sharing platform where users can browse listings, view details, and simulate booking homes. This project was built as part of a Node.js Experts Assessment, focusing primarily on frontend development using React, Vite, and Tailwind CSS, with mock data and functionality.
 
-**Current Time:** Sunday, May 4, 2025 at 1:24:59 PM IST
+**Built on:** Sunday, May 4, 2025
 **Location:** Nagpur, Maharashtra, India
 
 ---
 
 ## Live Demo
 
-**(Add your Vercel deployment link here once deployed!)**
-
-🔗 **Live Site:** [https://your-deployment-link.vercel.app](https://your-deployment-link.vercel.app)
+🔗 **Live Site:** [https://home-sharing-frontend.vercel.app/](https://home-sharing-frontend.vercel.app/)
 
 ---
 
 ## Screenshots
 
-**(Instructions: Take screenshots of key pages like the Home page, Listings page, Listing Detail page, Login page. Create a folder named `screenshots` in your project root, save the images there (e.g., `screenshots/homepage.png`), and embed them below using Markdown.)**
-
-*Example:*
-
 **Home Page:**
-![Home Page Screenshot](screenshots\homepage.png)
+![Home Page Screenshot](screenshots/homepage.png)
 
 **Listings Page:**
-![Listings Page Screenshot](screenshots\listings.png)
+![Listings Page Screenshot](screenshots/listings.png)
 
 **Listing Detail Page:**
-![Listing Detail Page Screenshot](screenshots\newlisting.png)
-
-**(Add more screenshots as needed)**
+![Listing Detail Page Screenshot](screenshots/newlisting.png)
 
 ---
 
@@ -57,7 +47,7 @@ A frontend application for a home sharing platform where users can browse listin
 * **Routing:** React Router DOM v6
 * **State Management:** React Context API (for Auth) + Component State (`useState`, `useEffect`)
 * **Data:** Static JSON files (`/src/data/`)
-* **Deployment:** Vercel
+* **Deployment:** Vercel (via GitHub Repository)
 
 ---
 
@@ -67,9 +57,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/home-sharing-frontend.git](https://github.com/YOUR_USERNAME/home-sharing-frontend.git)
+    git clone [https://github.com/INCREDIBLE18/home-sharing-frontend.git](https://github.com/INCREDIBLE18/home-sharing-frontend.git)
     ```
-    *(Replace with your actual GitHub repository URL)*
 
 2.  **Navigate into the project directory:**
     ```bash
