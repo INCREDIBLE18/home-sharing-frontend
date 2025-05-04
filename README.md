@@ -1,7 +1,5 @@
 # HomeShare Frontend - React Assessment Project
 
-![HomeShare Logo Placeholder](https://via.placeholder.com/150/4A90E2/FFFFFF?text=HomeShare)
-
 A frontend application for a home sharing platform where users can browse listings, view details, and simulate booking homes. This project was built as part of a Node.js Experts Assessment, focusing primarily on frontend development using React, Vite, and Tailwind CSS, with mock data and functionality.
 
 **Built on:** Sunday, May 4, 2025
@@ -11,17 +9,11 @@ A frontend application for a home sharing platform where users can browse listin
 
 ## Live Demo
 
-**(Add your Vercel deployment link here once deployed!)**
-
-🔗 **Live Site:** [https://your-deployment-link.vercel.app](https://your-deployment-link.vercel.app)
+🔗 **Live Site:** [https://home-sharing-frontend.vercel.app/](https://home-sharing-frontend.vercel.app/)
 
 ---
 
 ## Screenshots
-
-**(Instructions: Take screenshots of key pages like the Home page, Listings page, Listing Detail page, Login page. Create a folder named `screenshots` in your project root, save the images there (e.g., `screenshots/homepage.png`), and embed them below using Markdown.)**
-
-*Example:*
 
 **Home Page:**
 ![Home Page Screenshot](screenshots/homepage.png)
@@ -65,7 +57,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/home-sharing-frontend.git](https://github.com/YOUR_USERNAME/home-sharing-frontend.git)
+    git clone https://github.com/INCREDIBLE18/home-sharing-frontend.git
     ```
 
 2.  **Navigate into the project directory:**
@@ -82,6 +74,7 @@ To run this project locally, follow these steps:
 
 ---
 
+## Running Locally
 
 Once dependencies are installed, start the development server:
 
