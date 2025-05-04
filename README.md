@@ -1,6 +1,5 @@
 # HomeShare Frontend - React Assessment Project
 
-![HomeShare Logo Placeholder](https://via.placeholder.com/150/4A90E2/FFFFFF?text=HomeShare)
 
 A frontend application for a home sharing platform where users can browse listings, view details, and simulate booking homes. This project was built as part of a Node.js Experts Assessment, focusing primarily on frontend development using React, Vite, and Tailwind CSS, with mock data and functionality.
 
